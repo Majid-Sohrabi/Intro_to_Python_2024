@@ -13,3 +13,5 @@ I will collect your home assignment solutions through private github repositorie
 | 01 | |  |
 | -- | ------------------------| ------- |
 | 02 |  |   |
+
+# Exam project guidelines
