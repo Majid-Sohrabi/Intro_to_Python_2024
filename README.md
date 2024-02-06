@@ -10,7 +10,7 @@ I will collect your home assignment solutions through private github repositorie
 
 #	File	Deadline
 
-| 01 | |  |
+| 01 | [Week_3/[HW1_Python]-YOUR_NAME.ipynb](Week_3/[HW1_Python]-YOUR_NAME.ipynb) | Feb, 13 |
 | -- | ------------------------| ------- |
 | 02 |  |   |
 
