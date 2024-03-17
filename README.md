@@ -14,6 +14,7 @@ I will collect your home assignment solutions through private github repositorie
 | -- | ------------------------| ------- |
 | 02 | [Week_5/[HW2_Python]-YOUR_NAME.ipynb](Week_5/[HW2_Python]-YOUR_NAME.ipynb) |  Feb, 24 |
 | 03 | [Week_7/[HW3_Python]_YOUR_NAME.ipynb](Week_7/[HW3_Python]_YOUR_NAME.ipynb) | Mar, 16 |
+| 04 | [Week_7/[Week_7/[HW4_Python]_YOUR_NAME.ipynb](Week_7/[HW4_Python]_YOUR_NAME.ipynb) | Mar, 24 |
 
 
 
