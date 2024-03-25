@@ -31,8 +31,8 @@ There are 3 main checkpoints for the project:
 |Intermediate status report|Apr 25|May 16|
 |Project defense|May 23| Official exam date|
 
-Meeting any of the soft deadlines gives you a +0.5 bonus for the exam score, each.
-Missing any of the hard deadlines gives you a –0.5 penalty for the exam score, each.
+- Meeting any of the soft deadlines gives you a +0.5 bonus for the exam score, each.
+- Missing any of the hard deadlines gives you a –0.5 penalty for the exam score, each.
 
 Topic choice needs to be approved, so make sure you leave some time before the deadline for possible refinements.
 
